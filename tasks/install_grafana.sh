@@ -1,6 +1,6 @@
 #!/bin/bash
 install_grafana() {
-  log "Installing Grafana (non-interactive)..."
+  log "Installing Grafana ..."
 
   # Import GPG key silently
   wget -q -O - https://packages.grafana.com/gpg.key | sudo apt-key add - >/dev/null 2>&1
