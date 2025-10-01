@@ -92,7 +92,7 @@ See the [LICENSE](./LICENSE) file for details.
 ---
 
 ## 👨‍💻 Author
-**Mosudi Isiaka**  
+**Mosudi I. O.**  
 GitHub: [imosudi](https://github.com/imosudi)
 
 ---
